@@ -5,15 +5,15 @@ export default function About() {
         <section id="about">
           <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
             <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-              <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
+              <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray">
                 Hi, I'm Christina.
-                <br className="hidden lg:inline-block" />I love to build amazing
-                apps.
+                <br className="hidden lg:inline-block" />Data Aspirant
               </h1>
               <p className="mb-8 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-                Laborum, voluptas natus?
+              Seasoned Senior Software Quality Engineer with more than 4 years of experience in the software industry. 
+              Proven track record of ensuring the delivery of high-quality software products through comprehensive testing 
+              and quality assurance methodologies. Skilled in test planning, test execution, defect management, and process improvement.
+              Passionate about working with data and having proven record on EDA for multiple projects.
               </p>
               <div className="flex justify-center">
                 <a
@@ -32,7 +32,7 @@ export default function About() {
               <img
                 className="object-cover object-center rounded"
                 alt="hero"
-                src="./coding.svg"
+                src="./chris-avatar.jpeg"
               />
             </div>
           </div>

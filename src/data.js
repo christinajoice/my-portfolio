@@ -1,10 +1,10 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Yulu",
+    subtitle: "Hypothesis Testing",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
+      "Performed Hypothesis testing on Yulu dataset, India’s leading micro-mobility service provider and predicted whether there is demand for shared electric cycles in the Indian market based in the given variables.",
+    image: "./two-tail-hypothesis-testing.png",
     link: "https://reactbootcamp.com",
   },
   {
