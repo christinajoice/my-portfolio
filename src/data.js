@@ -3,9 +3,9 @@ export const projects = [
     title: "Yulu",
     subtitle: "Hypothesis Testing",
     description:
-      "Performed Hypothesis testing on Yulu dataset, India’s leading micro-mobility service provider and predicted whether there is demand for shared electric cycles in the Indian market based in the given variables.",
-    image: "./two-tail-hypothesis-testing.png",
-    link: "https://reactbootcamp.com",
+      "Performed Hypothesis testing on Yulu dataset, India s leading micro-mobility service provider and predicted whether there is demand for shared electric cycles in the Indian market based in the given variables.",
+    image: "./Yulu.gif",
+    link: "https://github.com/christinajoice/Yulu_Hypothesis_Testing/blob/main/Yulu.ipynb",
   },
   {
     title: "React Tracks",
